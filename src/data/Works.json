@@ -1,0 +1,26 @@
+[
+    {
+        "code": 1,
+        "owner": "Mr Dupont",
+        "domain": "board",
+        "description": "Guernica",
+        "isAvailable": false,
+        "weight": 100
+    },
+    {
+        "code": 2,
+        "owner": "Mr Finet",
+        "domain": "board",
+        "description": "Portrait de Marie-Thérèse",
+        "isAvailable": true,
+        "weight": 10
+    },
+    {
+        "code": 3,
+        "owner": "Mr Finet",
+        "domain": "sculpture",
+        "description": "Le penseur",
+        "isAvailable": false,
+        "weight": 1000
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "firstName": "Pablo",
+        "lastName": "Picasso",
+        "email": "pablo.picasso@gmail.com",
+        "telNumber": "0799000000",
+        "works" : [1, 2]
+    },
+    {
+        "firstName": "Auguste",
+        "lastName": "Rodin",
+        "email": "auguste.robin@gmail.com",
+        "telNumber": "0655000000",
+        "works" : [3]
+    },
+    {
+        "firstName": "Nathan",
+        "lastName": "Binet",
+        "email": "nathan.binet@gmail.com"
+    },
+    {
+        "firstName": "Noam",
+        "lastName": "Bouquet",
+        "email": "noam.bouquet@gmail.com"
+    },
+    {
+        "firstName": "Pierre",
+        "lastName": "Sus",
+        "email": "pierre.sus@gmail.com"
+    }
+]
